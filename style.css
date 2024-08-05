@@ -42,9 +42,10 @@ html,body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
   width: 70%;
   background-color:#e4d7d7;
-  font-size: 1.5rem;
+  font-size: 1rem;
   border: 5px solid #510057;
   border-radius: 20px;
   word-break: break-word;
@@ -85,11 +86,11 @@ html,body {
 
 #palavra{
   margin: 0;
-  width: 90%;
+  width: 100%;
   height: auto;
   padding-bottom: 10%;
   text-align: center;
-  font-size: 2.0rem;
+  font-size: 1.2rem;
 
   border-radius: 20px;
   word-break: break-word;
